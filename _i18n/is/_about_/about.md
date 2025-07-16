@@ -1,9 +1,7 @@
-
-
 <!-- > Embracing sustainability is increasingly becoming a prerequisite for business operations. -->
 
 # Stefnan Okkar
-Stefna SonoMicro er að bjóða uppá vatnstjórnunarkerfi í fremsta flokki, með inngrips lausum vöktunar lausnum sem leyfir fyrirtækjum og stofnunum að ganga vel um vatnsauðlindina og lágmarka sóun, án flókins og kostnaðarsamrar innleyðingar ferils. Saman byggjum við framtíð þar sem vel er farið með vatnsauðlindir, og undirbúum heilbrigðara umhverfi fyrir næstu kynslóðir. 
+Stefna SonoMicro er að bjóða uppá vatnstjórnunarkerfi í fremsta flokki, með inngrips lausum vöktunar lausnum sem leyfa fyrirtækjum og stofnunum að ganga vel um vatnsauðlindina og lágmarka sóun, án flókins og kostnaðarsamrar innleiðingar ferils. Saman byggjum við framtíð þar sem vel er farið með vatnsauðlindir, og undirbúum heilbrigðara umhverfi fyrir næstu kynslóðir. 
 
 
 # Sagan
