@@ -1,142 +1,159 @@
+FAQ:
+  title: Algengar Spurningar
+about:
+  description: Við erum drifin áfram af því að veita tæknilausnir fyrir samkeppnishæfan
+    iðnað framtíðarinnar.
+  heading: Um Okkur
+  sub_heading: SonoMicro's mission is to advance sustainable water management through
+    cutting-edge, non-invasive monitoring solutions that enable organizations to optimize
+    water usage and minimize waste. Together, we're building a future where responsible
+    water management is the norm, fostering a healthier environment for generations
+    to come.
+blog:
+  categories: Categories
+  description: The latest news and opinions
+  hero:
+    buttons:
+      contact_us: Hafðu samband
+    heading: Blog
+    sub_heading: Latest news & articles
+  title: Blog
+breadcrumbs:
+  home: Home
+collection:
+  digital:
+    description: Mælaborðið okkar er aðgengilegt í skýinu í gegnum vafra. Það tengist 
+      vélbúnaði okkar og gefur þér skýra innsýn í vatnsnotkunarkerfið þitt. Þú ert betur 
+      í stakk búinn til að taka upplýstar rekstrarákvarðanir og vernda verðmætar auðlindir. 
+      Viltu tengjast hússtjórnunarkerfi? Engin vandamál. 
+    title: Stafrænt Mælaborð
+  hardware:
+    description: Þjónustan okkar býður uppá aðgang að mælitækni okkar, sem krefst 
+      ekki inngrips í lagnakerfi, er einföld í uppsetningu og er sítengt skýjatækni okkar.
+    hero:
+      heading: Mælabúnaður
+      sub_heading: Þjónustan okkar býður uppá aðgang að mælitækni okkar, sem krefst 
+      ekki inngrips í lagnakerfi, er einföld í uppsetningu og er sítengt skýjatækni okkar.
+      Viltu fá gögnin beint í hússtjórnunarkerfi? Ekkert mál, tækið styður einnig samskipti yfir vír.
+    title: Mælabúnaður
+  oem:
+    description: Í samstarfi við SonoMicro sérsnýðum við mælitæknina okkar til að
+      falla fullkomlega að búnaði viðskiptavina, t.d. matvælaframleiðslutækjum eða
+      öðrum búnaði.
+    title: Hönnunar Þjónusta
+contact:
+  description: Get in touch with us
+  title: Hafðu samband!
 footer:
+  contact: Hafðu Samband
+  footer_description: Njóttu góðs af hátækni vatnsstjórnunartækninni okkar, gagnadrifin
+    vatnsstjórnun, án breytinga og inngripa í lagnakerfi.
   footer_primary_menu_title: Þjónusta
   footer_secondary_menu_title: Fyrirtækið
   footer_tertiary_menu_title: Annað
-  contact: Hafðu Samband
-  footer_description: Njóttu góðs af hátækni vatns stjórnunar tækninni okkar, gagnadrifin vatnsstjórnun, án breytinga og inngripa í lagnakerfi.
-collection:
-  oem:
-    title: Hönnunar Þjónusta
-    description: Í samstarfi við SonoMicro, sérsnýðum við mælitæknina okkar til að falla fullkomlega að búnaði viðskiptavina, t.d. matvælaframleiðslutækjum eða annað. 
-  hardware:
-    title: Mælabúnaður
-    description: Þjónustan okkar býður uppá aðgang að mælitækja tækni okkar, sem krefst ekki inngripa í lagnakerfi, er einfalt að setja upp og er sítengt við skýjatæknina okkar. 
-    hero:
-      heading: Mælabúnaður
-      sub_heading: Þjónustan okkar býður uppá aðgang að mælitækja tækni okkar, sem krefst ekki inngripa í lagnakerfi, er einfalt að setja upp og er tengt sítengt við skýjatæknina okkar. Viltu fá gögnin beint í hússtjórnunarkerfi? ekkert mál, tækið styður einnig samskipti yfir vír.
-  digital:
-    title: Stafrænt Mælaborð
-    description: Mælaborðið er í skýjinu aðgengilegt úr vafra, hugbúnaðurinn tengist vélbúnaði okkar fullkomlega, gefur þér sjónræna innsýn inn í notkunarmynstur þinna kerfa. Þú er betri í stakk búin til að taka skynsamar rekstrar ákvarðanir og verja verðmætar auðlindir á sama tíma, umhverfinu til hagsbóta. Viltu tengjast hússtjórnunarkerfinu þínu? ekkert mál.
-
-FAQ:
-  title: Algengar Spurningar
-services:
-  hero:
-    heading: Þjónusta okkar
-    sub_heading: Við bjóðum uppá heildar vökvaflæði lausnir 
-  outro:
-    heading: Tilbúin að koma í viðskipti?
-    sub_heading: Við erum í beta prófunum hjá völdum samstarfsaðilum. Hafðu samband ef þú vilt komast á biðlista.
-menu_item:
-  item1: "Heim"
-  item2: "Þjónusta"
-    #item_hw: Mælabúnaður
-    #item_sw: Hugbúnaðarlausnir
-    #item_oem: Verkfræði Hönnun
-  item3: "Algengar Spurningar"
-  item4: "Um Okkur"
-  item5: "Hafðu Samband"
-site:
-  lang: is
-  test: þetta er test
-  hero:
-    heading: Snallar vökvaflæði lausnir
-breadcrumbs:
-  home: Home
 heading: We Empower Your Water Sustainability Journey
-sidebar:
-  recent_posts: Recent Posts
-blog:
-  title: Blog
-  description: The latest news and opinions
-  hero:
-    heading: Blog
-    sub_heading: Latest news & articles
-    buttons:
-      contact_us: Hafðu samband
-  categories: Categories
-contact:
-  title: Hafðu samband!
-  description: Get in touch with us
-list:
-  title: Our List
-  description: Explore our list
-  intro:
-    heading: Intro to List"
-    sub_heading: Subheading for List
-  outro:
-    heading: Outro for List
-    sub_heading: Final words
-team:
-  title: Teymið okkar
-  description: Learn about our team members
-  intro:
-    heading: Við erum nýsköpunar fyrirtæki í vatnstjórnunar geiranum
-    sub_heading: Við erum drifin áfram af því að veita tæknilausnir fyrir samkeppnishæfan iðnað framtíðarinnar.
-  meet_the_team: Aðrir í Teyminu
-  button: Hafðu samband!
-  Daniel: 
-    description: Daníel ber ábyrgð á vöruþróun. Hann sér einnig um daglegan rekstur og fjáröflun.
-    jobtitle: Stofnandi / Framkvæmdastjóri
-  Kristjan:
-    description: Kristján sér um markaðsmál og strategíu.
-    jobtitle: Stjórnarmaður / Viðskiptaþróun
-  Hildur: 
-    description: Hildur er ráðgjafi félagsins þegar kemur að sjálfbærnimarkaðinum.
-    jobtitle: Stjórnarkona
-  Einar: 
-    description: Einar er hugbúnaðarsérfræðingur félagsins.
-    jobtitle: Verkfræðingur
-projects:
-  title: Our Projects
-  description: Showcase of our work
 home:
-  description: Benefit from our innovative water management solutions, providing your business with actionable insights to make data-guided choices for sustainability.
+  description: Benefit from our innovative water management solutions, providing your
+    business with actionable insights to make data-guided choices for sustainability.
   hero:
-    heading: Nútímalegar vökvaflæði lausnir
-    sub_heading: Gagnadrifin vatnsstjórnum, án breytinga og inngripa í lagnakerfi.
-    #button1: "Fáðu tilboð"
-    button1: "Hafðu Samband"
-  services:
-    heading: Þjónustan okkar
-    sub_heading: Explore Our Range of Services
-    view_more_button_text: Skoðaðu allar þjónusturnar okkar
+    button1: Hafðu Samband
+    heading: Nútímalegar vökvaflæðislausnir
+    sub_heading: Gagnadrifin vatnsstjórnun, án breytinga og inngripa í lagnakerfi.
   intro:
-    title: SonoMicro
-    heading: Velkominn til SonoMicro
-    sub_heading: Mælitæknin okkar og stafrænu þjónustur gera gagnadrifnar rekstrarákvarðanir mögulegar.
-    features:
-      first_feature: Engin þörf á niðurtíma, virkar án þrýstingsfalls í lögnum. 
-      second_feature: Sjálfvirkt, rauntíma mælingar og vöktun. Gögn aðgengileg á lokuðu vefsvæði.
-      third_feature: Auðveld uppsettning, og innleiðing. Möguleiki á að tengjast hússtjórnunarkerfum.
-      forth_feature: Sérsniðin samantekt á vatnsnotkun sem nýtist í ákvarðanatöku og skýrslugerð.
-      fifth_feature: Fáðu aðgang að mælitækni og hugbúnaða lausnum okkar. Íslenskt hugvit og framleiðsla.
     buttons:
       about: Um okkur
       contact: Hafðu samband
-    partners:
-      heading: Our Partners
-    projects:
-      heading: Our Projects
-      sub_heading: Showcasing Our Expertise
+    features:
+      fifth_feature: Fáðu aðgang að mælitækni og hugbúnaðarlausnum okkar. Íslenskt
+        hugvit og framleiðsla.
+      first_feature: Engin þörf á niðurtíma, virkar án þrýstingsfalls í lögnum.
+      forth_feature: Sérsniðin samantekt á vatnsnotkun sem nýtist í ákvarðanatöku
+        og skýrslugerð.
+      second_feature: Sjálfvirkar rauntímamælingar og vöktun. Gögn aðgengileg á lokuðu
+        vefsvæði.
+      third_feature: Auðveld uppsetning og innleiðing. Möguleiki á að tengjast hússtjórnunarkerfum.
+    heading: Velkominn til SonoMicro
     outro:
       heading: Sustainable Solutions for a Better Tomorrow
+    partners:
+      heading: Our Partners
     posts:
       heading: Fréttir og Greinar
       sub_heading: Insights and Updates
       view_more_button_text: Sjá allt
-
-about:
-  heading: Um Okkur
-  description: Við erum drifin áfram af því að veita tæknilausnir fyrir samkeppnishæfan iðnað framtíðarinnar. 
-  sub_heading: SonoMicro's mission is to advance sustainable water management through cutting-edge, non-invasive monitoring solutions that enable organizations to optimize water usage and minimize waste. Together, we're building a future where responsible water management is the norm, fostering a healthier environment for generations to come.
-
-sections: 
-  digital: 
+    projects:
+      heading: Our Projects
+      sub_heading: Showcasing Our Expertise
+    sub_heading: Mælitæknin okkar og stafrænar þjónustur gera gagnadrifnar rekstrarákvarðanir
+      mögulegar.
+    title: SonoMicro
+  services:
+    heading: Þjónustan okkar
+    sub_heading: Explore Our Range of Services
+    view_more_button_text: Skoðaðu allar þjónusturnar okkar
+list:
+  description: Explore our list
+  intro:
+    heading: Intro to List
+    sub_heading: Subheading for List
+  outro:
+    heading: Outro for List
+    sub_heading: Final words
+  title: Our List
+menu_item:
+  item1: Heim
+  item2: Þjónusta
+  item3: Algengar Spurningar
+  item4: Um Okkur
+  item5: Hafðu Samband
+projects:
+  description: Showcase of our work
+  title: Our Projects
+sections:
+  digital:
     hero:
-      heading: "Stafrænar Lausnir"
-      sub_heading: "Our user-friendly software suite integrates seamlessly with our hardware, providing data visualization and recommendations for optimizing water usage and waste reduction."
+      heading: Stafrænar Lausnir
+      sub_heading: Our user-friendly software suite integrates seamlessly with our
+        hardware, providing data visualization and recommendations for optimizing
+        water usage and waste reduction.
   hw:
     hero:
-      heading: "Mælabúnaður"
-      sub_heading: " "
+      heading: Mælabúnaður
+      sub_heading: ""
+services:
+  hero:
+    heading: Þjónusta okkar
+    sub_heading: Við bjóðum uppá heildarvökvaflæðislausnir
+  outro:
+    heading: Tilbúin að koma í viðskipti?
+    sub_heading: Við erum í betaprófunum hjá völdum samstarfsaðilum. Hafðu samband
+      ef þú vilt komast á biðlista.
+sidebar:
+  recent_posts: Recent Posts
+site:
+  hero:
+    heading: Snjallar vökvaflæðislausnir
+  lang: is
+  test: þetta er test
+team:
+  Daniel:
+    description: Daníel ber ábyrgð á vöruþróun. Hann sér einnig um daglegan rekstur
+      og fjáröflun.
+    jobtitle: Stofnandi / Framkvæmdastjóri
+  Einar:
+    description: Einar er hugbúnaðarsérfræðingur félagsins.
+    jobtitle: Verkfræðingur
+  Hildur:
+    description: Hildur er ráðgjafi félagsins þegar kemur að sjálfbærnimarkaðinum.
+    jobtitle: Stjórnarkona
+  Kristjan:
+    description: Kristján sér um markaðsmál og strategíu.
+    jobtitle: Stjórnarmaður / Viðskiptaþróun
+  button: Hafðu samband!
+  description: Learn about our team members
+  intro:
+    heading: Við erum nýsköpunarfyrirtæki í vatnsstjórnunargeiranum
+    sub_heading: Við erum drifin áfram af því að veita tæknilausnir fyrir samkeppnishæfan
+      iðnað framtíðarinnar.
+  meet_the_team: Aðrir í Teyminu
+  title: Teymið okkar

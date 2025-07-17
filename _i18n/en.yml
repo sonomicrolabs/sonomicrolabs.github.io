@@ -62,7 +62,7 @@ list:
   title: Our List
   description: Explore our list
   intro:
-    heading: Intro to List"
+    heading: Intro to List
     sub_heading: Subheading for List
   outro:
     heading: Outro for List
@@ -71,8 +71,8 @@ team:
   title: Meet Our Team
   description: Learn about our team members
   intro:
-    heading: "We are a technology startup in the smart water management space"
-    sub_heading: "We are Dedicated to Empower Businesses to Excel in Achieving Sustainability Targets."
+    heading: We are a technology startup in the smart water management space
+    sub_heading: We are Dedicated to Empower Businesses to Excel in Achieving Sustainability Targets.
   meet_the_team: Meet the rest of the team
   button: Contact Us
   Daniel: 
@@ -95,8 +95,7 @@ home:
   hero:
     heading: We Empower Your Water Sustainability Journey
     sub_heading: Unlock Data-Driven Water Management with Our Non-Invasive Flow Metering Solutions.
-    #button1: "Request Quote"
-    button1: "Contact Us"
+    button1: Contact Us
   services:
     heading: Our Services
     sub_heading: Explore Our Range of Services
