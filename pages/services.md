@@ -10,7 +10,7 @@ lang: en
 hero:
   enabled: true
   heading: "Services"
-  sub_heading: "We offer a comprehensive, sustainable water management solutions."
+  sub_heading: "We offer comprehensive, connected flow measurement solutions for factories."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
@@ -40,8 +40,8 @@ intro:
   enabled: true
   align: left
   image: false
-  heading: "Sustainable Water Management Solutions for Businesses."
-  sub_heading: "Our hardware and digital platform provide actionable data to optimize water use, reduce waste, and our team provides consultations to help your business achieve its sustainability goals while adhering to budget constraints. Join us in revolutionizing water management and fostering a greener future."
+  heading: "Advanced Flow Measurement for Connected Factories."
+  sub_heading: "Our hardware and digital platform provide actionable data to optimize water use and identify loss, and our team provides consultations to help your facility get the most out of its flow data while adhering to budget constraints."
   buttons:
     enabled: false
     list:

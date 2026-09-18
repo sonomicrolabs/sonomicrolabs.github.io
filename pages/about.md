@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: true
 permalink: /about/
 permalink_is: /about/
-description: "Empowering Sustainability Through Advanced Water Monitoring."
+description: "Connecting factories to advanced, non-invasive water flow measurement."
 image: "/assets/images/gen/content/drop.webp"
 
 

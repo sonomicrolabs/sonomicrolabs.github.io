@@ -3,16 +3,15 @@ layout: home
 permalink: /
 permalink_en: /
 title: "SonoMicro"
-description: "Benefit from our innovative water management solutions, providing your business with actionable insights to make data-guided choices for sustainability."
+description: "Connect your factory to accurate, real-time water flow data with our non-invasive flow measurement service."
 header_transparent: true
 meta_title: SonoMicro
 lang: en
 
 hero:
   enabled: true
-  heading: "We Empower Your Water Sustainability Journey"
-  #sub_heading: "Benefit from our water metering solution, providing your business with actionable insights to make data-guided choices for sustainability."
-  sub_heading: "Unlock Data-Driven Water Management with Our Non-Invasive Flow Metering Solutions."
+  heading: "Connecting Factories to Advanced Flow Measurement"
+  sub_heading: "Non-invasive water flow metering that puts real-time, actionable data directly in the hands of your plant."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -62,13 +61,13 @@ intro:
     list:
       - text: "No process interruption nor downtime needed and runs without affecting flow pressure."
         fa_icon: "fas fa-check"  
-      - text: "Autonomous, real-time measurements of water flow for efficient water consumption monitoring, helping you meet CSRD regulatory requirements."
+      - text: "Autonomous, real-time measurements of water flow, connecting your factory to continuous, accurate consumption data."
         fa_icon: "fas fa-check"
       - text: "Seamless integration and user-friendly interface for easy implementation and data visualization."
         fa_icon: "fas fa-check"
-      - text: "Tailored recommendations for optimizing water usage and reducing waste, contributing to a sustainable future."
+      - text: "Tailored recommendations for optimizing water usage and identifying loss across your operations."
         fa_icon: "fas fa-check"
-      - text: "Cost-effective access to comprehensive hardware and software solutions, meeting budget constraints and enabling organizations of all sizes to embrace sustainable practices."
+      - text: "Cost-effective access to comprehensive hardware and software solutions, built for facilities of all sizes."
         fa_icon: "fas fa-check"
   buttons:
     enabled: true
