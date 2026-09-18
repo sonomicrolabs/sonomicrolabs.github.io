@@ -91,6 +91,7 @@ exclude:
   - README.md
   - LICENSE
   - netlify.toml
+  - CLAUDE.md
 
 
 # -------------------
