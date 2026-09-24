@@ -45,7 +45,7 @@ intro:
   # Pre-existing gap, not introduced here; left with correct copy in case it's wired up.
   enabled: true
   align: left
-  image: false
+  image: "/assets/images/gen/content/flow-meter-install.webp"
   heading: "Advanced Flow Measurement for Connected Factories."
   sub_heading: "Our hardware and digital platform provide actionable data to optimize water use and identify loss, and our team provides consultations to help your facility get the most out of its flow data while adhering to budget constraints."
   buttons:
