@@ -18,7 +18,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-1-large.webp"
+  background_image: "/assets/images/gen/home/frontpage-render.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
@@ -56,7 +56,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/drop-data.webp"
+  image: "/assets/images/gen/home/olgerd-meter.webp"
   heading: "intro"
   sub_heading: "intro sub heading"
   features:
