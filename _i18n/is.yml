@@ -57,8 +57,8 @@ home:
     business with actionable insights to make data-guided choices for sustainability.
   hero:
     button1: Hafðu Samband
-    heading: Nútímalegar vökvaflæðislausnir
-    sub_heading: Gagnadrifin vatnsstjórnun, án breytinga og inngripa í lagnakerfi.
+    heading: Tengjum verksmiðjur við háþróaða flæðimælingu
+    sub_heading: Inngripslaus vatnsflæðismæling sem skilar rauntíma, hagnýtum gögnum beint til rekstrarins þíns.
   intro:
     buttons:
       about: Um okkur
@@ -123,7 +123,7 @@ sections:
 services:
   hero:
     heading: Þjónusta okkar
-    sub_heading: Við bjóðum uppá heildarvökvaflæðislausnir
+    sub_heading: Við bjóðum upp á heildstæðar, tengdar flæðimælingalausnir fyrir verksmiðjur.
   outro:
     heading: Tilbúin að koma í viðskipti?
     sub_heading: Við erum í betaprófunum hjá völdum samstarfsaðilum. Hafðu samband

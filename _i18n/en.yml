@@ -23,7 +23,7 @@ FAQ:
 services:
   hero:
     heading: Services
-    sub_heading: We offer a comprehensive, sustainable water management solutions.
+    sub_heading: We offer comprehensive, connected flow measurement solutions for factories.
   outro:
     heading: Ready to get started?
     sub_heading: Contact us today for a free quote!
@@ -93,8 +93,8 @@ projects:
 home:
   description: Benefit from our innovative water management solutions, providing your business with actionable insights to make data-guided choices for sustainability.
   hero:
-    heading: We Empower Your Water Sustainability Journey
-    sub_heading: Unlock Data-Driven Water Management with Our Non-Invasive Flow Metering Solutions.
+    heading: Connecting Factories to Advanced Flow Measurement
+    sub_heading: Non-invasive water flow metering that puts real-time, actionable data directly in the hands of your plant.
     button1: Contact Us
   services:
     heading: Our Services
@@ -106,10 +106,10 @@ home:
     sub_heading: Our advanced sub-metering technology and digital platform enable data-driven optimization of water. Experience the SonoMicro advantage with our customer-centered services. Experience the SonoMicro advantage today.
     features:
       first_feature: No process interruption nor downtime needed and runs without affecting flow pressure.
-      second_feature: Autonomous, real-time measurements of water flow for efficient water consumption monitoring, helping you meet CSRD regulatory requirements.
+      second_feature: Autonomous, real-time measurements of water flow, connecting your factory to continuous, accurate consumption data.
       third_feature: Seamless integration and user-friendly interface for easy implementation and data visualization.
-      forth_feature: Tailored recommendations for optimizing water usage and reducing waste, contributing to a sustainable future.
-      fifth_feature: Cost-effective access to comprehensive hardware and software solutions, meeting budget constraints and enabling organizations of all sizes to embrace sustainable practices.
+      forth_feature: Tailored recommendations for optimizing water usage and identifying loss across your operations.
+      fifth_feature: Cost-effective access to comprehensive hardware and software solutions, built for facilities of all sizes.
     buttons:
       about: About Us
       contact: Contact Us

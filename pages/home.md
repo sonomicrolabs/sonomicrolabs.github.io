@@ -10,8 +10,11 @@ lang: en
 
 hero:
   enabled: true
-  heading: "Connecting Factories to Advanced Flow Measurement"
-  sub_heading: "Non-invasive water flow metering that puts real-time, actionable data directly in the hands of your plant."
+  heading: "We Empower Your Water Sustainability Journey"
+  # NOTE: this string is a match key, not displayed text — see _includes/framework/blocks/sections/hero.html.
+  # The real heading is _i18n/en.yml and _i18n/is.yml's home.hero.heading.
+  sub_heading: "Unlock Data-Driven Water Management with Our Non-Invasive Flow Metering Solutions."
+  # NOTE: match key too — real text is home.hero.sub_heading in _i18n/en.yml / _i18n/is.yml.
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -57,17 +60,20 @@ intro:
   heading: "intro"
   sub_heading: "intro sub heading"
   features:
+    # NOTE: these `text` values are unused — _includes/framework/blocks/sections/info.html
+    # hardcodes this list to home.intro.features.first_feature..fifth_feature in
+    # _i18n/en.yml / _i18n/is.yml instead of reading feature.text. Edit those, not here.
     enabled: true
     list:
       - text: "No process interruption nor downtime needed and runs without affecting flow pressure."
         fa_icon: "fas fa-check"  
-      - text: "Autonomous, real-time measurements of water flow, connecting your factory to continuous, accurate consumption data."
+      - text: "Autonomous, real-time measurements of water flow for efficient water consumption monitoring, helping you meet CSRD regulatory requirements."
         fa_icon: "fas fa-check"
       - text: "Seamless integration and user-friendly interface for easy implementation and data visualization."
         fa_icon: "fas fa-check"
-      - text: "Tailored recommendations for optimizing water usage and identifying loss across your operations."
+      - text: "Tailored recommendations for optimizing water usage and reducing waste, contributing to a sustainable future."
         fa_icon: "fas fa-check"
-      - text: "Cost-effective access to comprehensive hardware and software solutions, built for facilities of all sizes."
+      - text: "Cost-effective access to comprehensive hardware and software solutions, meeting budget constraints and enabling organizations of all sizes to embrace sustainable practices."
         fa_icon: "fas fa-check"
   buttons:
     enabled: true
