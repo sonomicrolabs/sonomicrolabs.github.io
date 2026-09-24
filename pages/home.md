@@ -3,7 +3,7 @@ layout: home
 permalink: /
 permalink_en: /
 title: "SonoMicro"
-description: "Benefit from our innovative water management solutions, providing your business with actionable insights to make data-guided choices for sustainability."
+description: "Connect your factory to accurate, real-time water flow data with our non-invasive flow measurement service."
 header_transparent: true
 meta_title: SonoMicro
 lang: en
@@ -11,13 +11,15 @@ lang: en
 hero:
   enabled: true
   heading: "We Empower Your Water Sustainability Journey"
-  #sub_heading: "Benefit from our water metering solution, providing your business with actionable insights to make data-guided choices for sustainability."
+  # NOTE: this string is a match key, not displayed text — see _includes/framework/blocks/sections/hero.html.
+  # The real heading is _i18n/en.yml and _i18n/is.yml's home.hero.heading.
   sub_heading: "Unlock Data-Driven Water Management with Our Non-Invasive Flow Metering Solutions."
+  # NOTE: match key too — real text is home.hero.sub_heading in _i18n/en.yml / _i18n/is.yml.
   text_color: "#FFFFFF"
   background_color: "#1d2830"
-  background_gradient: true
-  background_image: "/assets/images/gen/home/home-1-large.webp"
-  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  background_gradient: false
+  background_image: "/assets/images/gen/home/frontpage-render.webp"
+  background_image_blend_mode: false # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: "660px"
@@ -54,10 +56,13 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/drop-data.webp"
+  image: "/assets/images/gen/home/olgerd-meter.webp"
   heading: "intro"
   sub_heading: "intro sub heading"
   features:
+    # NOTE: these `text` values are unused — _includes/framework/blocks/sections/info.html
+    # hardcodes this list to home.intro.features.first_feature..fifth_feature in
+    # _i18n/en.yml / _i18n/is.yml instead of reading feature.text. Edit those, not here.
     enabled: true
     list:
       - text: "No process interruption nor downtime needed and runs without affecting flow pressure."

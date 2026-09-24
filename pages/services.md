@@ -11,6 +11,8 @@ hero:
   enabled: true
   heading: "Services"
   sub_heading: "We offer a comprehensive, sustainable water management solutions."
+  # NOTE: match key, not displayed text — see _includes/framework/blocks/sections/hero.html.
+  # The real sub_heading is services.hero.sub_heading in _i18n/en.yml / _i18n/is.yml.
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
@@ -37,11 +39,15 @@ grid:
   prevent_click: false
 
 intro:
+  # NOTE: heading/sub_heading below are currently NOT rendered on this page — info.html
+  # (_includes/framework/blocks/sections/info.html) only has match conditions for a few
+  # other pages' literal heading/sub_heading strings, none of which match this page's.
+  # Pre-existing gap, not introduced here; left with correct copy in case it's wired up.
   enabled: true
   align: left
   image: false
-  heading: "Sustainable Water Management Solutions for Businesses."
-  sub_heading: "Our hardware and digital platform provide actionable data to optimize water use, reduce waste, and our team provides consultations to help your business achieve its sustainability goals while adhering to budget constraints. Join us in revolutionizing water management and fostering a greener future."
+  heading: "Advanced Flow Measurement for Connected Factories."
+  sub_heading: "Our hardware and digital platform provide actionable data to optimize water use and identify loss, and our team provides consultations to help your facility get the most out of its flow data while adhering to budget constraints."
   buttons:
     enabled: false
     list:
