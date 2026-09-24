@@ -6,18 +6,18 @@ weight: 2
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-color-palette-100.png" #"assets/images/icons/icons8-source-code-100.png"
-thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
-image: "/assets/images/gen/services/service-1.webp"
+thumbnail: "/assets/images/gen/home/olgerd-meter.webp"
+image: "/assets/images/gen/home/olgerd-meter.webp"
 lang: en
 hero:
   enabled: true
   heading: "hardware heading"
   sub_heading: "hardware sub heading"
   text_color: "#ffffff"
-  background_color: ""
-  background_gradient: true
-  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_color: "#1d2830"
+  background_gradient: false
+  background_image_blend_mode: "multiply" # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/content/flow-meter-install.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
