@@ -17,9 +17,9 @@ hero:
   # NOTE: match key too — real text is home.hero.sub_heading in _i18n/en.yml / _i18n/is.yml.
   text_color: "#FFFFFF"
   background_color: "#1d2830"
-  background_gradient: true
+  background_gradient: false
   background_image: "/assets/images/gen/home/frontpage-render.webp"
-  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  background_image_blend_mode: false # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: "660px"
