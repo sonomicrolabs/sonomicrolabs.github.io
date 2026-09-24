@@ -16,7 +16,7 @@ hero:
   text_color: "#ffffff"
   background_color: "#1d2830"
   background_gradient: false
-  background_image_blend_mode: "multiply" # "overlay", "multiply", "screen"
+  background_image_blend_mode: false # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/content/flow-meter-install.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
