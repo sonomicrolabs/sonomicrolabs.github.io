@@ -5,7 +5,7 @@ Vélbúnaður SonoMicro fyrir flæðimælingar er hannaður frá grunni fyrir á
 - Það er tengt við nýjustu iðnaðar-IoT tækni til að miðla gögnum til og frá skýinu.
 
 # Áreynslulaus samþætting
-Með SonoMicro geturðu notið sléttra umskipta yfir í tengda, gagnadrifna flæðimælingu án vandræða:
+Með SonoMicro geturðu notið umskipta yfir í tengda, gagnadrifna flæðimælingu án vandræða:
 
 - Enginn niðurtími kerfa nauðsynlegur.
 - Enginn þrýstingsfallandi.
@@ -13,7 +13,7 @@ Með SonoMicro geturðu notið sléttra umskipta yfir í tengda, gagnadrifna fl�
 - Enginn rafvirki nauðsynlegur.
 
 # Hagkvæmur gagnaflutningur
-Vélbúnaður okkar nýtir núverandi farsímainnviði til gagnaflutnings, sem tryggir að þú færð nákvæm, rauntíma vatnsflæðisgögn án aukakostnaðar.
+Vélbúnaður okkar nýtir núverandi farsímainnviði til gagnaflutnings, sem tryggir að þú færð nákvæm, rauntíma vatnsflæðisgögn án þess að þurfa að snerta núverandi netinviði eins og wifi net.
 
 # Upplifðu forskot SonoMicro
 Veldu SonoMicro fyrir vandlega hannaða, inngripslausa vélbúnaðarlausn sem tengir verksmiðjuna þína við nákvæma, rauntíma flæðimælingu og lágmarkar truflanir á starfseminni.

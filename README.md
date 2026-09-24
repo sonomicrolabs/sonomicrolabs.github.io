@@ -22,6 +22,7 @@ Then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server
 To build the Jekyll site run `bundle exec jekyll build`
 
 ## Deploy
+Commit to origin/source
 
 ### Netlify
 
